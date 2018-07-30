@@ -1,0 +1,18 @@
+// BASE SETUP
+@import '1_setup/reset';
+// @import '1_setup/variables';
+// @import '1_setup/iconfont';
+@import '1_setup/vendor/materialize-sass/materialize';
+@import '1_setup/base';
+
+// EVERY STYLE APART FROM WIDGETS & MODULES
+// @import '2_layouts/';
+
+// MODULE STYLES
+// @import '3_modules/';
+
+// WIDGET STYLES
+// @import '4_widgets/';
+
+// SITE STYLES
+// @import '5_sites/';

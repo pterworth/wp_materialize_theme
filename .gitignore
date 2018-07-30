@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+.htaccess
+
+node_modules
+
+gulpfile.js
+NOTIZEN.txt
+package-lock.json

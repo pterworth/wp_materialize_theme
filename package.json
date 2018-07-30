@@ -1,0 +1,40 @@
+{
+  "name": "tp_materialize",
+  "version": "0.0.1",
+  "description": "Clean WordPress installation with Materialize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terwortH/tp_mat.git"
+  },
+  "keywords": [
+    "wordpress",
+    "materialize"
+  ],
+  "author": "Pascal Terworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terwortH/tp_mat/issues"
+  },
+  "homepage": "https://github.com/terwortH/tp_mat#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-js-minify": "0.0.3",
+    "gulp-jshint": "^2.1.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
